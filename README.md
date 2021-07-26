@@ -1,5 +1,7 @@
 # DomClick
-Test proje
+Test project
+После скачивания через нужно установить зависимости командой python -m pip install -r requirements.txt.
+
 Начало работы в любой IDE которая есть либо можно прямо из консоли, все команды запускаются через __  python manage.py "команда"  __ 
 В передйя в core папку, чтобы был виден manage.py.
 1.Сначало необходимо выполнить команду python manage.py makemigrations и затем сразу pythn manage.py migrate что содат базу данных.
